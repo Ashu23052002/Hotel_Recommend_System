@@ -40,7 +40,7 @@
 
 .hotel-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 7px rgba(0, 0, 0, 0.2);
 }
 
 /* Align the book link to the right */
